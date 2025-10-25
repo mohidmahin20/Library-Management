@@ -3,8 +3,8 @@
 A full-featured Library Management System built using Django — designed to manage books, members, and borrowing operations efficiently.
 It enables librarians to handle inventory, issue and return books, and track overdue items through a modern web interface.
 
-###🚀 Features
-####👤 User Management
+### Features
+#### User Management
 
 Admin authentication and authorization using Django’s built-in User model.
 
@@ -12,7 +12,7 @@ Role-based access (Admin / Librarian / Member).
 
 Member registration and profile management.
 
-####📖 Book Management
+#### Book Management
 
 Add, edit, and delete books.
 
@@ -22,7 +22,7 @@ Search and filter functionality for quick access.
 
 Upload cover images
 
-####🏷️ Issue & Return System
+#### Issue & Return System
 
 Borrow and return books with due-date tracking.
 
@@ -30,19 +30,19 @@ Automatic status updates (Available / Issued / Overdue).
 
 Borrowing history for each member.
 
-####📅 Notifications & Logs
+#### Notifications & Logs
 
 Track overdue books and pending returns.
 
 Email or dashboard alerts (if configured).
 
-####📊 Admin Dashboard
+#### Admin Dashboard
 
 Overview of total books, issued books, members, and overdue statistics.
 
 CRUD operations for all entities via Django Admin or custom dashboard.
 
-####🛠️ Tech Stack
+#### Tech Stack
 Component	Technology
 Backend	Django (Python 3)
 Frontend	HTML, CSS, Bootstrap
