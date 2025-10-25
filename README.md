@@ -1,4 +1,5 @@
-![1705510120006](https://github.com/user-attachments/assets/a7a3d367-9a58-42a5-87a8-3dfdfa9e7a29)### Library Management System (Django)
+![1705510120006](https://github.com/user-attachments/assets/a7a3d367-9a58-42a5-87a8-3dfdfa9e7a29)
+### Library Management System (Django)
 
 A full-featured Library Management System built using Django — designed to manage books, members, and borrowing operations efficiently.
 It enables librarians to handle inventory, issue and return books, and track overdue items through a modern web interface.
