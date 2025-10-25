@@ -1,4 +1,4 @@
-###📚 Library Management System (Django)
+### Library Management System (Django)
 
 A full-featured Library Management System built using Django — designed to manage books, members, and borrowing operations efficiently.
 It enables librarians to handle inventory, issue and return books, and track overdue items through a modern web interface.
