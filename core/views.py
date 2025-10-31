@@ -3,7 +3,7 @@ from django.views.generic import TemplateView
 from book.models import Book
 from category.models import Category
 
-# Create your views here.
+
 
 
 class HomeView(TemplateView):
